@@ -58,7 +58,7 @@ public class Programa {
 		if(tentativas > 5) {
 			System.out.println("Pensei que não ia conseguir! usou "+tentativas+" tentativa()s.");
 		}
-		System.out.println("FIM!");
+		System.out.println("~~~~~~FIM!~~~~~~");
 	}
 
 }
